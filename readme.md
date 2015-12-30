@@ -1,6 +1,6 @@
 #Census records indexer using Java 
 
-A useful application where user can download and index  census images from a Java server. Front end was coded using Swing, 
+A useful application where user can download and index  census images from a server. Server was coded using Java and Frontend using Swing.
 
 ## Installation
 
