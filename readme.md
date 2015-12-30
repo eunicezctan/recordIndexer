@@ -45,7 +45,7 @@ This will connect the client to the desired server. e.g java -jar recordClient.j
 
 ## Other
 
-/doc/index.html- contains the API
+/doc/index.html- contains recordIndexer Java API
 
 /CurrentRecord - contains all the census images, field help and know data for data checker
 
