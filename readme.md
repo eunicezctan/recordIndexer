@@ -1,6 +1,6 @@
 #Census records indexer using Java 
 
-A useful application where user can download and index images of census record from a Java server. Front end was coded using Swing, 
+A useful application where user can download and index  census images from a Java server. Front end was coded using Swing, 
 
 ## Installation
 
@@ -46,6 +46,5 @@ This will connect the client to the desired server. e.g java -jar recordClient.j
 ## Other
 
 /doc/index.html- contains the API
+/CurrentRecord - contains all the census images, field help and know data for data checker
 /src - contain both client and server source code
-
-
